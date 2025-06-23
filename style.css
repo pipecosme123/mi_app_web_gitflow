@@ -57,3 +57,7 @@ input[type="submit"] {
     font-size: 18px;
     color: #555;
 }
+
+h2#formTitle {
+    color: #007BFF;
+}
